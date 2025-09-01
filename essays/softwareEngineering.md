@@ -1,10 +1,10 @@
 ---
 layout: essay
 type: essay
-title: "Igniting the fire"
+title: "interests in Software Engineering"
 # All dates must be YYYY-MM-DD format!
-date: 2015-08-26
-published: false
+date: 2025-08-31
+published: true
 labels:
   - Software Engineering
   - Learning
