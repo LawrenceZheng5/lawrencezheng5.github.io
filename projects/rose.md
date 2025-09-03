@@ -3,7 +3,7 @@ layout: project
 type: project
 image: img/rose/Roselogo.png
 title: "VIP Team RoSE"
-date: 2024-08-01
+date: 2024-Present
 published: true
 labels:
   - Robotic Operating System (ROS2)
