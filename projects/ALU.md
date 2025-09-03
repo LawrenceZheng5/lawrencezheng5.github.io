@@ -18,6 +18,8 @@ Arithmetic Logic Unit also known as ALUs are a fundemental part of a computer's 
   <img src="/img/ALU/schematic.png" alt="ALU schematic">
 </div>
 
+
+
 ### Inputs
 **A** and **B** were 4-bit inputs for the ALU, **S** was the 3-bit operation code specifier, and **XIN** was the carry in bit.
 
