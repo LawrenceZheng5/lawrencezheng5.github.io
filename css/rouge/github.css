@@ -207,3 +207,7 @@
 .highlight {
   background-color: #f8f8f8;
 }
+
+figure.centered { text-align:center; }
+figure.centered img { display:block; margin:0 auto; max-width:100%; height:auto; }
+figure.centered figcaption { margin-top:.5rem; color:#666; font-size:.95rem; }
