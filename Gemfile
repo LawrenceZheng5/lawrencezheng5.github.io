@@ -12,10 +12,3 @@ gem "webrick", "~> 1.7"
 gem 'html-proofer'
 gem 'jekyll-gist'
 gem 'rouge'
-
-# Explicit fixes for Windows
-gem "nokogiri", ">= 1.18.9"     # prebuilt binary available for Windows
-gem "sass-embedded", ">= 1.69"  # required by jekyll-sass-converter 3+
-
-gem "csv"
-gem "base64"
