@@ -8,7 +8,7 @@ published: true
 labels:
   - Verilog
   - FPGA
-summary: "I developed a simple Arithmetic Logic Unit (ALU) as the final project of ECE 260"
+summary: "I developed a simple Arithmetic Logic Unit (ALU) as the final project of ECE 260."
 ---
 
 Arithmetic Logic Units (ALUs) are a fundamental component of a computer’s central processing unit (CPU). They are responsible for performing arithmetic and logical operations such as addition, subtraction, and multiplication. ECE 260 is a course on digital logic and design and the final project required us to design and verify an ALU that operated on two 4-bit inputs. This project served as the culmination of the semester’s work, combining truth table design, K-map simplification, logic gate simulation, and hardware implementation.

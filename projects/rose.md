@@ -9,10 +9,10 @@ labels:
   - Robotic Operating System (ROS2)
   - GitHub
   - Python
-summary: "Team RoSE is a multidisciplinary student group at UH Mānoa that designs and builds Mars-analogue rovers to compete in the international University Rover Challenge."
+summary: "Team RoSE is a multidisciplinary student group at UH Mānoa that designs and builds simulated Mars rovers to compete in the  University Rover Challenge (URC)."
 ---
 ## Overview
-Team Robotic Space Exploration (RoSE) is a multidisciplinary undergraduate project team at UH Mānoa, bringing together students from engineering, astrobiology, computer science, and related fields. As part of the Vertically Integrated Projects (VIP) program, Team RoSE designs and builds advanced robotic systems to compete in the University Rover Challenge (URC). At the 2025 URC competetion, team RoSE placed **24th** out of 114 international teams. URC is an international competition focused on building simulated Mars Rovers that compete in the following 4 missions:
+Team Robotic Space Exploration (RoSE) is a multidisciplinary undergraduate project team at UH Mānoa, bringing together students from engineering, astrobiology, computer science, and related fields. As part of the Vertically Integrated Projects (VIP) program, Team RoSE designs and builds advanced robotic systems to compete in the University Rover Challenge (URC). At the 2025 URC competition, team RoSE placed **24th** out of 114 international teams. URC is an international competition focused on building simulated Mars Rovers that compete in the following 4 missions:
 
 #### Science Mission
 Teams navigate to candidate sites (within ~0.5 km of the command station), document each site with panoramas and close-ups (including scale and cardinal directions), record GNSS coordinates, and build a stratigraphic profile. The rover performs on-board analyses with at least one life-detection method plus a second science capability, measures subsurface temperature and soil moisture (~10 cm depth), then collects a ≥5 g sample from ≥10 cm below the surface, seals it in a cache, and returns it to the judges for debrief. Afterwards, teams will present their finds and analysis of the site to the judges. A written science plan is also required and factors into scoring. 
@@ -25,7 +25,7 @@ A staged, timed obstacle course (total ~30–60 min) where the rover traverses i
 
  <figure class="centered">
   <img src="{{ '/img/rose/mock_lander.png' | relative_url }}">
-  <figcaption>Rover attempting to flip a swtich using robotic arm</figcaption>
+  <figcaption>Rover attempting to flip a switch using robotic arm</figcaption>
 </figure>
 
 #### Autonomous Navigation Mission
