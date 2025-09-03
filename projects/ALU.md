@@ -13,9 +13,9 @@ summary: "I developed a simple Arithmetic Logic Unit (ALU) as the final project 
 
 Arithmetic Logic Unit also known as ALUs are a fundemental part of a computer's central proccessing unit (CPU). They are responsible for performing basic arithmetic operations such as addition, subtraction, and multiplication. The particular ALU that I had to design for this project did operations on two 4-bit inputs based on the following table: 
 
-<div class="text-center p-4">
-  <img src="{{ '/img/ALU/table.png' | relative_url }}" alt="ALU table">
-  <img src="{{ '/img/ALU/schematic.png' | relative_url }}" alt="ALU schematic">
+<div style="text-align:center;">
+  <img src="../img/ALU/table.png" alt="ALU table">
+  <img src="/img/ALU/schematic.png" alt="ALU schematic">
 </div>
 
 ### Inputs
