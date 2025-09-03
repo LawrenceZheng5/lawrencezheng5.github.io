@@ -14,12 +14,12 @@ summary: "I developed a simple Arithmetic Logic Unit (ALU) as the final project 
 Arithmetic Logic Unit also known as ALUs are a fundemental part of a computer's central proccessing unit (CPU). They are responsible for performing basic arithmetic operations such as addition, subtraction, and multiplication. The particular ALU that I had to design for this project did operations on two 4-bit inputs based on the following table: 
 
 <div style="text-align:center;">
-  <img src="../img/ALU/table.png" alt="ALU table">
-  <img src="/img/ALU/schematic.png" alt="ALU schematic">
+  <img src="../img/ALU/Table.png" alt="ALU table">
+  <img src="/img/ALU/Schematic.png" alt="ALU schematic">
 </div>
 
-<img src="{{ '/img/ALU/table.png' | relative_url }}" alt="ALU table" class="d-block mx-auto">
-<img src="{{ '/img/ALU/schematic.png' | relative_url }}" alt="ALU schematic" class="d-block mx-auto">
+<!-- <img src="{{ '/img/ALU/table.png' | relative_url }}" alt="ALU table" class="d-block mx-auto">
+<img src="{{ '/img/ALU/schematic.png' | relative_url }}" alt="ALU schematic" class="d-block mx-auto"> -->
 
 
 ### Inputs
@@ -29,7 +29,7 @@ Arithmetic Logic Unit also known as ALUs are a fundemental part of a computer's 
 **F** was the 4-bit output that resulted from the operation. **Z** was the flag to indicate that **F** was zero, **V** was the flag to indicate to indicate if there was no overflow. **C** was the flag only for subtraction and addition to indicate if there was a carry/borrow out.
 
 We first desgined and solved the truth tables for each operation separately on paper. Then we had to simulate each operation on Falstad which is a circuit simulator. 
-<a href="../downloads/alu.txt  " download>
+<a href="../downloads/ALU.txt  " download>
   Download Simulation File
 </a>
 
