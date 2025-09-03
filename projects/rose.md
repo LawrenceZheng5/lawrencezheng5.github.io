@@ -8,7 +8,8 @@ published: true
 labels:
   - Robotic Operating System (ROS2)
   - GitHub
-summary: "TK"
+  - Python
+summary: "Team RoSE is a multidisciplinary student group at UH Mānoa that designs and builds Mars-analogue rovers to compete in the international University Rover Challenge."
 ---
 ## Overview
 Team Robotic Space Exploration (RoSE) is a multidisciplinary undergraduate project team at UH Mānoa, bringing together students from engineering, astrobiology, computer science, and related fields. As part of the Vertically Integrated Projects (VIP) program, Team RoSE designs and builds advanced robotic systems to compete in the University Rover Challenge (URC). At the 2025 URC competetion, team RoSE placed **24th** out of 114 international teams. URC is an international competition focused on building simulated Mars Rovers that compete in the following 4 missions:
