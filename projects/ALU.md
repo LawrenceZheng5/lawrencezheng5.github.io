@@ -18,6 +18,8 @@ Arithmetic Logic Unit also known as ALUs are a fundemental part of a computer's 
   <img src="/img/ALU/schematic.png" alt="ALU schematic">
 </div>
 
+<img src="{{ '/img/ALU/table.png' | relative_url }}" alt="ALU table" class="d-block mx-auto">
+<img src="{{ '/img/ALU/schematic.png' | relative_url }}" alt="ALU schematic" class="d-block mx-auto">
 
 
 ### Inputs
