@@ -21,7 +21,7 @@ Teams navigate to candidate sites (within ~0.5 km of the command station), docum
 A staged, timed obstacle course (total ~30–60 min) where the rover traverses increasingly difficult terrain that can be beyond line of sight. It must follow marked paths, open boxes, pick up and deliver objects, read signs, and locate equipment in large search areas. For 2025, teams may optionally deploy a drone to help scout, read signage, relay radio, or search. It’s not required but can assist at each stage. Points are awarded per task and stage. 
 
 #### Equipment Servicing Mission
- After a short drive (~0.25 km) to a mock lander, the rover performs dexterous arm tasks in any order within 30 min, including: deliver the cached science sample to a drawer on the lander, unlatch/open panels, push buttons/flip switches/turn knobs, operate a 4-position joystick while watching a gauge, remove/insert a rugged USB stick, and complete an autonomous typing task by entering a provided launch key on a vertical keyboard. 
+After a short drive (~0.25 km) to a mock lander, the rover performs dexterous arm tasks in any order within 30 min, including: deliver the cached science sample to a drawer on the lander, unlatch/open panels, push buttons/flip switches/turn knobs, operate a 4-position joystick while watching a gauge, remove/insert a rugged USB stick, and complete an autonomous typing task by entering a provided launch key on a vertical keyboard. 
 
  <figure class="centered">
   <img src="{{ '/img/rose/mock_lander.png' | relative_url }}">

@@ -25,3 +25,5 @@ From my perspective as a Computer Engineering student, it’s also been challeng
 
 ### WODs
 In this regard, I’m optimistic that the Workouts of the Day (WODs) will help me more than the traditional approach of solving practice problems online. While I would still like an easy way to test my solutions and get instant feedback, I’ve already found the WOD practice format valuable. The time pressure sharpens my focus, and I enjoy reviewing the instructor’s solutions to see different approaches. I know I’ll be nervous during the actual in-class WODs, but I’m confident that the practice will pay off and that I’ll learn to manage the pressure while improving my skills.
+
+Grammar and proof reading done with ChatGPT
