@@ -30,7 +30,7 @@ The requirements of the ALU can be found from the following:
 ### Results
 This project was both challenging and rewarding because it brought together all of the skills I had developed throughout the course. I gained practical experience in digital design by moving from abstract truth tables to working circuits and real hardware. I also reinforced my understanding of K-maps, logic simplification, and simulation workflows, and I saw firsthand how these concepts translate into Verilog and FPGA programming. Completing the entire project independently was a satisfying demonstration of the knowledge and problem-solving strategies I had built during the semester.
 
-A pdf showing the work that I did for this project can be found <a href="{{ '/downloads/ALU/Final Project.pdf' | relative_url }}" download> here </a>.
+A pdf showing the work that I did for this project can be found <a href="{{ '/downloads/ALU/Final Project.pdf' | relative_url }}" download> here</a>.
 
 In addition you can simulate the final result by visiting [Falstad](https://www.falstad.com/circuit/) and `file` -> `Import From Text` -> <a href="{{ '/downloads/ALU/ALU.txt' | relative_url }}" download>copy and paste this file</a>.
 
