@@ -16,7 +16,7 @@ labels:
 ### HTML & CSS
 It was my first time using HTML and CSS since middle school. Doing all the assignments and practices using pure HTML and CSS was a struggle at first. The formatting and getting everything to look polished took much more work and thought than I expected. Over time, I started to understand how even small details like spacing, alignment, and color choices can completely change how a webpage feels. It gave me a deeper appreciation for how much precision and patience goes into even the simplest web pages.
 
-# Using Bootstrap 5
+### Using Bootstrap 5
 Once we switched over to using Bootstrap 5 as our User Interface (UI) framework, things became a lot easier to do, but it also introduced a level of abstraction that required reading more documentation to fully understand what each class does. It was interesting to see how powerful Bootstrap is for quickly building responsive and clean layouts. However, I also realized that relying on frameworks means you sometimes lose the fine-grained control you have when coding everything manually. I was very surprised by how many popular websites can be closely recreated using Bootstrap, as illustrated by the `E35: Your Choice with Bootstrap 5` assignment.
 
 ### Looking ahead
