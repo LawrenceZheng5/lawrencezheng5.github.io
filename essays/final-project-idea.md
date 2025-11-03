@@ -47,7 +47,7 @@ Some possible mockup pages include:
 - New users goes to landing page, logs in
 - Options start the game, leaderboards, user submission page
 - Users sees images of places around campus, and places a marker on map
-- User receives a score for the distance
+- User receives a score for the distance until round is over
 - Admin logs in, views admin dashboard, approve or remove images
 
 
@@ -57,11 +57,6 @@ Some possible mockup pages include:
 After implementing the basic functionality, here are ideas for more advanced features:
 - Include other University of Hawaii campuses
 - Include AI to give a short history of the location
-- Users can rate if a photo is unfit for the game
+- Users can rate a photo if it is unfit for the game
 - Include videos of a walk through of the location
 - A fully interactive map with zoom
-
-
-
-
-
