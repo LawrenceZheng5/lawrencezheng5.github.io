@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "TK"
+title: "The End is Here"
 # All dates must be YYYY-MM-DD format!
 date: 2025-12-11
 published: true
