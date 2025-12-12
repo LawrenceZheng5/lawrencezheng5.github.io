@@ -39,7 +39,7 @@ I did not use it for this because I was able to understand what code did by digg
 I used it for this quite a bit.
 #### 12. Documenting code
 I did not use it for this because I did not feel the need to document code.
-### 13. Quality assurance (e.g. “What’s wrong with this code <code here>” or “Fix the ESLint errors in <code here>”)
+#### 13. Quality assurance (e.g. “What’s wrong with this code <code here>” or “Fix the ESLint errors in <code here>”)
 I often used ChatGPT for this when an error would come up and I had to debug it.
 
 
